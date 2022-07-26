@@ -47,6 +47,61 @@ Interface Segregation Principle
 
 Dependency Inversion Principle
 
+##### Constructor
+
+Thread()
+Thread(Runnable taarget)
+Thread(String name)
+Thread(Runnable target,String name)
+
+Thread(ThreadGroup tg,Runnable target)
+Thread(ThreadGroup tg,String name)
+Thread(ThreadGroup tg,Runnable target,String name)
+Thread(ThreadGroup tg,Runnable target,String name,long stackSize)
 
 
+##### Method
+Basic Method
+
+run 
+start
+currentThraed -> this is static method -> it will provide thread refernce
+isAlive() -> boolean return
+
+Naming Method
+
+getName
+setName
+
+Daemon method 
+
+isDaemon
+setDaemon(boolean b)
+
+priority based method
+
+getPriority()
+setPriority(int pv)
+
+Preventing thread exection method
+
+sleep(time)
+yield()
+join()
+suspend() resume stop destrory
+
+Intrripting the thread method
+
+intrrupt
+isIntrrupted()
+interrupted()
+
+
+##### Interthread Communication
+
+wait()
+notify()
+notifyAll()
+
+this are part of Object class
 
