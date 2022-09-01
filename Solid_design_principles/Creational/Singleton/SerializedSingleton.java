@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Singleton;
+
 import java.io.Serializable;
 
 public class SerializedSingleton implements Serializable{

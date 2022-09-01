@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Prototype;
+
 public class PrototypePatternDemo {
    public static void main(String[] args) {
       ShapeCache.loadCache();

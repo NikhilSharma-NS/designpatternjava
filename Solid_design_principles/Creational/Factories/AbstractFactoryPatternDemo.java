@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Factories;
+
 public class AbstractFactoryPatternDemo {
    public static void main(String[] args) {
       //get shape factory
@@ -22,3 +24,4 @@ public class AbstractFactoryPatternDemo {
       shape4.draw();
       
    }
+}

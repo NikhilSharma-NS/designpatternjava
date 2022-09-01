@@ -1,4 +1,4 @@
-package com.sorting;
+package designpatternjava.sorting;
 
 public class SelectionSort {
 

@@ -1,4 +1,4 @@
-package com.singleton;
+package designpatternjava.Solid_design_principles.leet_code;
 
 public class SolutionReverse {
     public int reverse(int x) {

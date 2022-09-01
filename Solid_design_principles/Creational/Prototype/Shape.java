@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Prototype;
+
 public abstract class Shape implements Cloneable {
    
    private String id;

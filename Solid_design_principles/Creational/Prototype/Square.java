@@ -1,3 +1,6 @@
+package designpatternjava.Solid_design_principles.Creational.Prototype;
+
+
 public class Square extends Shape {
 
    public Square(){

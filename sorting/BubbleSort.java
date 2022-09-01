@@ -1,4 +1,5 @@
-package com.sorting;
+package designpatternjava.sorting;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;

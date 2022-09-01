@@ -1,4 +1,4 @@
-package com.java8;
+package designpatternjava.Java8.Inteface;
 
 import java.util.ArrayList;
 import java.util.List;

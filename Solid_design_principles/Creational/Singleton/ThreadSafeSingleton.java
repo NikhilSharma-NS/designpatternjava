@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Singleton;
+
 public class ThreadSafeSingleton {
 
     private static ThreadSafeSingleton instance;

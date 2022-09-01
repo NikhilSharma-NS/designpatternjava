@@ -1,4 +1,4 @@
-package com.singleton;
+package designpatternjava.Java8.Inteface;
 
 interface  A{
     public void show();

@@ -1,4 +1,4 @@
-package thread.test;
+package designpatternjava.threading;
 
 public class SecondRunnable implements  Runnable{
     @Override

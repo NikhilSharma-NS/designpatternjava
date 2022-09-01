@@ -1,3 +1,5 @@
+package designpatternjava.Solid_design_principles.Creational.Prototype;
+
 import java.util.Hashtable;
 
 public class ShapeCache {
